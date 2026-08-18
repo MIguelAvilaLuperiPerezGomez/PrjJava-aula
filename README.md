@@ -107,7 +107,7 @@ public class Main {
 ## Tecnologias
 
 - Java
-- IntelliJ IDEA
+- IntelliJ IDEA.
 
 ## Autor
 
